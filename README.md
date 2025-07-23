@@ -1,6 +1,6 @@
 # GitLab to GitHub Migration Tool
 
-このツールは、GitLabで運用している複数のリポジトリをGitHubへ移行するためのPythonスクリプトです。コード（全履歴）、Issue、Merge Requestを自動で移行します。
+このツールは、GitLabで運用している複数のリポジトリをGitHubへ移行するためのPythonスクリプトです。コード（全履歴）、Issue、Merge Request、labelを自動で移行します。
 
 ## 主な機能
 
